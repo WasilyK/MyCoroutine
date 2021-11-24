@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCoroutine</string>
+    <string name="delete">delete</string>
+    <string name="insert">insert</string>
+</resources>
